@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Asteriod Collision Prototype",
+"productVersion": "0.1",
+"dataUrl": "Astriod WebGL.data.unityweb",
+"wasmCodeUrl": "Astriod WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Astriod WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
